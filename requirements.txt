@@ -2,3 +2,4 @@ streamlit
 thefuzz
 python-Levenshtein
 pandas
+openpyxl
